@@ -1,0 +1,24 @@
+{
+  "name": "targuilon7-1",
+  "version": "1.0.0",
+  "description": "https://github.com/ElieInbar/Targuilon7.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElieInbar/Targuilon7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElieInbar/Targuilon7/issues"
+  },
+  "homepage": "https://github.com/ElieInbar/Targuilon7#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
